@@ -8,4 +8,4 @@ Almost every step is automated through GitHub Actions. Nonetheless, the binary i
 2. Generate a static site as described in [ofm-static](https://github.com/ofmgraz/ofm-static)
 3. Generate Metadata for ingestion as described in [ofm-arche](https://github.com/ofmgraz/ofm-arche)
 4. Ingest metadata Metadata as described in [ofm-arche](https://github.com/ofmgraz/ofm-arche)
-5. Perform locally a binary ingest of the data located ```acdh_resources$/container/R_OFM_Graz_22035/to_ingest```
+5. Locally, perform a binary ingest of the data located ```acdh_resources$/container/R_OFM_Graz_22035/to_ingest```
